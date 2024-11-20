@@ -14,13 +14,17 @@ The field of AI is built on a complex stack of technologies, each layer critical
 
 3. **Data and ML Frameworks**: The tools that translate raw data into training-ready formats and the frameworks that enable model building. We’ll look into popular ML libraries, data pipelines, and preprocessing techniques, providing hands-on insights.
 
-4. **Model Development and Training**: This is where the magic happens—designing, training, and optimizing AI models. From neural network architectures to hyperparameter tuning, we’ll break down the core steps of model development.
+4. **Model Development**: This is where the magic happens—designing AI models. We’ll explore various neural network architectures, model selection strategies, and the initial steps of model creation.
 
-5. **Deployment and Serving**: Once a model is trained, the challenge shifts to deployment. We’ll cover containerization, model serving platforms, and the considerations for bringing AI into production environments.
+5. **Model Training**: Training is a critical phase where models learn from data. We’ll dive into training techniques, optimization algorithms, and the intricacies of hyperparameter tuning to enhance model performance.
 
-6. **Applications and Future Trends**: AI is transforming industries, but the future holds even more. We’ll discuss emerging applications, ethical considerations, and potential advancements in AI technology, including my perspectives on what’s next.
+6. **Model Fine Tuning Techniques**: Fine-tuning is essential for adapting pre-trained models to specific tasks. We’ll discuss transfer learning, domain adaptation, and other techniques to refine models for better accuracy and efficiency.
 
----
+7. **Model Deployment**: Once a model is trained, the challenge shifts to deployment. We’ll cover containerization, model serving platforms, and the considerations for bringing AI into production environments.
+
+8. **Applications**: AI is transforming industries with innovative applications. We’ll explore real-world use cases across various sectors, highlighting the impact and potential of AI technologies.
+
+9. **Future Trends of AI**: The future of AI holds exciting possibilities. We’ll discuss emerging trends, ethical considerations, and potential advancements in AI technology, including my perspectives on what’s next.
 
 ### 🎯 Goals of This Repository
 
@@ -46,9 +50,12 @@ Each layer of the stack will be released as a separate part, covering:
 1. **Hardware Foundations**
 2. **Infrastructure and Systems**
 3. **Data Processing and ML Frameworks**
-4. **Model Building and Training Techniques**
-5. **Deployment and Serving Strategies**
-6. **Applications and the Future of AI**
+4. **Model Development and Insights**
+5. **Model Training Techniques**
+6. **Model Fine Tuning Techniques**
+7. **Model Deployment and Serving Strategies**
+8. **applications**
+9. **Future of AI**
 
 Stay tuned as new sections and topics are released!
 
@@ -66,6 +73,21 @@ This series is a journey, and I’d love to hear from you! Feel free to open iss
 
 ---
 
+### 👤 About Me
+
+I have had the opportunity in my professional career to contribute to and lead the design, development, and delivery of technology solutions at the intersection of hardware and software. My experience spans high-performance architectures, including high performant appliance design, SR-IOV NICs, Multi Tenant Crypto, etc. Currently, I am spearheading the engineering development of one such mission-critical multi-tenant application delivery appliance and software solution. Additionally, I lead a cutting-edge Systems Engineering organization that develops advanced tools for development and testing, significantly enhancing product quality and accelerating time-to-market. With the rapid rise in interest in the AI ecosystem with ChatGPT, my interest in understanding the full stack of AI grew from these experiences, leading to the creation of this series.
+
+---
+
+### 📬 Contact Me
+
+I would love to hear from you! Feel free to reach out via:
+
+- **LinkedIn**: [Kumar Rangasamy](https://www.linkedin.com/in/kumarrangasamy/)
+- **Email**: [kumareshind@gmail.com](mailto:kumareshind@gmail.com)
+
+Let's connect and discuss all things AI!
+
+---
+
 Thank you for visiting **AI Stack DeepDive**. Let’s dive in and explore the entire stack of AI together!
-
-
